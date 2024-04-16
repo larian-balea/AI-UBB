@@ -1,6 +1,6 @@
 # UBB-Artificial-Intelligence
 
-This repository contains lectures, seminars, laboratories, plus additional materials.
+This repository will contain lectures, seminars, laboratories, plus additional materials.
 
 ## YEAR 1
 
