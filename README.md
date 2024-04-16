@@ -8,31 +8,24 @@ YEAR 1
     <li> 📂 Semester 1
         <ul>
             <li>
-                    <a 
-                       🐍 Fundamentals of Programming
+                    <a 🐍 Fundamentals of Programming
                     </a>
-                </li>
-         </ul>
-      </li>
-    <li> 📂 Semester 2
-        <ul>
-                <li>
-                    <a 
-                       ⏳ Objected-Oriented Programming
-                    </a>
-                </li>
-                 <li>
-                    <a 
-                       🌟 Operating Systems
-                    </a>
-                </li>
-                <li>
-                    <a 
-                       🤖 Data Structures & Algorithms
-                    </a>
-                </li>
-                
-                
+            </li>
         </ul>
     </li>
+    <li> 📂 Semester 2
+        <ul>
+            <li>
+                    <a ⏳ Objected-Oriented Programming
+                    </a>
+            </li>
+            <li>
+                    <a 🌟 Operating Systems
+                    </a>
+            </li>
+            <li>
+                    <a 🤖 Data Structures & Algorithms
+                    </a>
+            </li>
+                
 </ul>
