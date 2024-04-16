@@ -8,7 +8,7 @@ YEAR 1
     <li> 📂 Semester 1
         <ul>
             <li>
-                    <a 🐍 Fundamentals of Programming
+                    <a "🐍 Fundamentals of Programming"
                     </a>
             </li>
         </ul>
